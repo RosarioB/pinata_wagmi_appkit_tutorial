@@ -1,4 +1,16 @@
+# pinata_wagmi_appkit_tutorial
+This is the source code of this [Youtube video](https://www.youtube.com/watch?v=9rWCLrR1bnk). 
+
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+
+## Environment variables
+Create in the root a file `.env.local` with:
+```
+NEXT_PUBLIC_PROJECT_ID=<appkit_project_id>
+NEXT_PUBLIC_PINATA_JWT
+NEXT_PUBLIC_PINATA_GATEWAY_URL
+```
 
 ## Getting Started
 
